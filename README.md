@@ -1,4 +1,6 @@
 # IIT-BikeSharingDemand
+https://www.kaggle.com/c/bike-sharing-demand/data
+
 Forecast use of a city bikeshare system
 
 You are provided hourly rental data spanning two years (Data (training and test) available here). The training set is
